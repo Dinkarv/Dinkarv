@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Omnivise applications](https://www.siemens-energy.com/global/en/home/products-services/product-offerings/omnivise-digital-solutions.html)
 
-- 🌱 I’m currently learning **AWS, NextJS**
+- 🌱 I’m currently learning **AWS, Flutter**
 
 - 💬 Ask me about **React,Ember, Javascript, HTML, CSS3**
 

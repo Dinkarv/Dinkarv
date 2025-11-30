@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **dinkarv94@gmail.com**
 
-- 📄 Know about my experiences [https://dv-resume-site.vercel.app/](https://dv-resume-site.vercel.app/)
+- 📄 Check my resume @ [https://dv-resume-site.vercel.app/](https://dv-resume-site.vercel.app/)
+- Visit my upcoming profile Website [https://mypage-proj-theta.vercel.app/], trying to complete it before 2026.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

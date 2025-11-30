@@ -10,9 +10,7 @@
 - 💬 Ask me about **React,Ember, Javascript, HTML, CSS3**
 
 - 📫 How to reach me **dinkarv94@gmail.com**
-
-- 📄 Check my resume @ [https://dv-resume-site.vercel.app/](https://dv-resume-site.vercel.app/)
-- Visit my upcoming profile Website [https://mypage-proj-theta.vercel.app/], trying to complete it before 2026.
+- 📄 Visit my upcoming profile & resume at [https://mypage-proj-theta.vercel.app/], trying to complete it before 2026.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
